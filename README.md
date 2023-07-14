@@ -24,8 +24,9 @@
 🤔 My name is Ido and I'm a FullStack Developer from Israel, <br/>
 I Specialize in C#, OOP, MySQL JS, HTML, CSS, Microsoft Azure Fundamentals, ASP.NET Framework and more, <br/>
 
-• 🌱 I have great work ethic and I'm looking for my next challenge in Frontend / Fullstack development positions<br>
+• 🌱 I have a great work ethic and I'm looking for my next challenge in Frontend / Fullstack development positions<br>
 • 📫 How to reach me: idokrupik@gmail.com <br>
+• 📫 Check out my portfolio website: https://ido-krupik.com <br>
 
 ---
 
