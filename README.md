@@ -31,7 +31,7 @@ I Specialize in Java, C#, OOP, Docker, AWS, and more. <br/>
 ---
 
 ### :hammer_and_wrench: Skills :
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,docker,react,dotnet,aws,azure,git,postman,kafka,redis,cassandra,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,docker,dotnet,aws,azure,git,postman,kafka,redis,cassandra,postgres,react)](https://skillicons.dev)
 
 ---
 
