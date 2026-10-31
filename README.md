@@ -17,17 +17,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">Full-Stack Engineer building production web applications with React, Node.js, PHP, and modern delivery workflows</h3>
+<h3 align="center">Full-Stack &amp; Integration Developer | React · Node.js/TypeScript · PHP | n8n · REST APIs · Webhooks · SuiteCRM</h3>
 
 ---
 
 ### :man_technologist: About Me
 
-I'm a Full-Stack Engineer with hands-on experience building and maintaining production web applications.
+Full-stack and integration developer with 2 years of experience building telecom systems with React, Node.js/TypeScript, PHP and SQL.
 
-My current work focuses on React, Node.js, PHP, REST APIs, SQL, Docker, CI/CD, and system integrations. I enjoy working across frontend, backend, integrations, and delivery workflows to build robust, maintainable systems.
+At a telecom company with 200K+ subscribers, I built a new customer platform end-to-end, up to v1.0: React micro-frontends, a documented REST API, payments with 3-D Secure, a CRM integration and an event-driven Node.js service, with Docker, CI/CD and automated tests. I then moved to integrations and automation: connecting the CRM with external partners (open banking, telephony, messaging) through REST APIs, webhooks and n8n, and replacing manual work with more than 20 automations.
 
-Most of the public repositories here reflect personal and study projects, while my current professional work is mainly in private repositories.
+Most of the public repositories here are earlier personal and study projects.
 
 - 💼 LinkedIn: [linkedin.com/in/idokrupik](https://www.linkedin.com/in/idokrupik)
 - 📫 Email: idokrupik@gmail.com
@@ -44,13 +44,17 @@ Most of the public repositories here reflect personal and study projects, while 
 
 ### :hammer_and_wrench: Main Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,php,js,ts,mysql,postgres,mongodb,redis,docker,git,linux,kubernetes,jest,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,php,js,ts,mysql,postgres,mongodb,redis,kafka,docker,git,linux,kubernetes,aws,vitest,postman&perline=9)](https://skillicons.dev)
 
 ---
 
 ### :gear: Additional Technologies
 
 - REST APIs
+- n8n
+- SuiteCRM
+- OAuth2 / JWT
+- Metabase
 - GitLab CI/CD
 - Docker Compose
 - Helm
