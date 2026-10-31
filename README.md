@@ -36,8 +36,6 @@ Most of the public repositories here reflect personal and study projects, while 
 
 ### :lock: Recent Private Projects
 
-These repositories are private; I can walk through the code in an interview.
-
 - **JobAtlas**: a personal job-search tracker. A Chrome extension saves job postings and fills application forms for review, and the Claude API tailors a CV to each posting. Next.js, React, TypeScript, Postgres (Neon), Drizzle ORM.
 - **Northbeat**: a bilingual (English/Hebrew, full RTL) task, planner and time-tracking app, with an MCP server that lets Claude work with tasks, reminders and docs. Next.js, React, TypeScript, Postgres (Neon), Drizzle ORM.
 - **HybridPro**: a personal training-load platform that ingests workouts from the Hevy and Strava APIs through webhooks and computes a daily readiness score. Next.js, TypeScript, Postgres (Neon), Drizzle ORM.
